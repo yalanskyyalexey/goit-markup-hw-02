@@ -84,6 +84,7 @@ header {
 }
 
 .hero-btn {
+  font-family: var(--main-font);
   font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
@@ -174,6 +175,7 @@ footer {
 /* portfolio main */
 
 .portfolio-main-btn {
+  font-family: var(--main-font);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
